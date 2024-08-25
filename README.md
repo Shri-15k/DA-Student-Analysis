@@ -19,10 +19,7 @@ The primary goal is to identify patterns in students' daily routines, such as wa
 4. **Visualization**: Created interactive and informative visualizations using Tableau and Power BI.
 
 ## Files in the Repository
-- `dataset.csv`: The cleaned dataset.
-- `analysis_script.py`: Python scripts used for the analysis.
-- `visualizations`: Folder containing exported visualizations in image format.
-- `final_report.pdf`: The final project report detailing the findings and conclusions.
+- `DA_Student_Analysis_Report.pdf`: The final project report detailing the findings and conclusions.
 
 ## Tools Used
 - **Tableau** and **Power BI** for visualizations.
@@ -30,13 +27,13 @@ The primary goal is to identify patterns in students' daily routines, such as wa
 - **Google Forms** for data collection.
 
 ## How to Use
-1. Read the `final_report.pdf` for insights and conclusions.
+1. Read the `DA_Student_Analysis_Report.pdf` for insights and conclusions.
 
 ## Authors
 - **Shriraj Khochage**
-  - Soham Page
-  - Sakshi Maskar
-  - Atharva Mehta 
+  - Soham Page (Team Member)
+  - Sakshi Maskar (Team Member)
+  - Atharva Mehta (Team Member)
 
 - **Dr. Kapil Kadam Sir** (Data Analytics Faculty)
 
