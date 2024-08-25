@@ -1,4 +1,4 @@
-# DA-Student-Analysis
+# Data Analytics
 
 # Exploratory Data Analysis of Students' Daily Routine
 
